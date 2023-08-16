@@ -9,13 +9,20 @@ Step 1: Sign in or Sign up into the website.
 
 ![Screenshot (22)](https://github.com/sharvari-mangale/AI-Preceptor-Guide-for-FItness/assets/88763391/6f686c9c-10f7-4b37-a534-1b4493b8790f)
 
+You are data will be saved in the database sucessfully.
+
+![Screenshot (19)](https://github.com/sharvari-mangale/AI-Preceptor-Guide-for-FItness/assets/88763391/4f6f22c8-6fd1-407c-9b3d-3187a79885f2)
+
+
 Step 2: HomePage of the website.
 
 ![Screenshot (24)](https://github.com/sharvari-mangale/AI-Preceptor-Guide-for-FItness/assets/88763391/36ff1e85-1d55-4bdc-b69c-5ae0d2acbce6)
 
+
 Step 3: Click on Start.
 
 ![Screenshot (21)](https://github.com/sharvari-mangale/AI-Preceptor-Guide-for-FItness/assets/88763391/69ebc99a-e641-4a50-990c-db43d852a4b7)
+
 
 Step4: To get more exercies or yoga poses click on tree button.
 
